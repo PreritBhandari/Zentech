@@ -2,8 +2,8 @@
 
 ZenTech official Website 2022
 
-Deployed Site:
+## Deployed Site:
 
-(https://zen-tech.netlify.app)
+https://zen-tech.netlify.app
 
 
